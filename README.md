@@ -6,7 +6,7 @@
 
 ## 在线演示
 
-👉 [点击体验](https://eaglefandel.github.io/cloudflare-error-page-generator/src/)
+👉 [点击体验](https://mbilse.github.io/cepg/src/)
 
 ## 功能特性
 
